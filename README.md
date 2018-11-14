@@ -1,6 +1,6 @@
 # Game Dev Knights Tower Defense Workshop
 
-[![Image](http://samuelarminana.com/u/1e00c1898-feff-4fd0-afd9-e18b43a3ccfd.png)]
+![Image](http://samuelarminana.com/u/1e00c1898-feff-4fd0-afd9-e18b43a3ccfd.png)
 
 For more information regarding game dev knights go to, https://gamedevknights.com/
 
