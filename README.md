@@ -5,7 +5,7 @@
 For more information regarding game dev knights go to, https://gamedevknights.com/
 
 Download the Presentation and follow along using the notes on your own!
-http://samuelarminana.com/u/10e70b96f-1eb3-4455-bd70-e42155383bf2.pptx
+http://samuelarminana.com/u/12c8ce0b3-488d-4138-9f27-42198ed9f1df.pptx
 
 Download TD Asset Pack to get started!
 https://drive.google.com/open?id=1jR4LPfkR42UVU0D3U6CiBdSIACQKEmJh
